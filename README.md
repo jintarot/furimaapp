@@ -21,7 +21,7 @@ Things you may want to cover:
       string :first_name_kana
       string :email
 # Item
-    string :item_name
+      string :item_name
       text :item_text
       integer :category
       integer :status
