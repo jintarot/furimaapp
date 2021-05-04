@@ -11,7 +11,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="UserTable" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" collapsed="1">
-                    <mxGeometry x="10" y="271.88" width="190" height="256.25" as="geometry">
+                    <mxGeometry x="10" y="273.75" width="190" height="256.25" as="geometry">
                         <mxRectangle x="390" y="710" width="170" height="160" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
